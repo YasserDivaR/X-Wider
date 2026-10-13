@@ -9,8 +9,6 @@
 [![Tampermonkey](https://img.shields.io/badge/Tampermonkey-Required-orange.svg)](https://www.tampermonkey.net/)
 [![Twitter/X](https://img.shields.io/badge/Works%20on-X.com-black.svg)](https://x.com/)
 
-<img src="https://user-images.githubusercontent.com/placeholder/before-after.png" alt="X-Wider Preview" width="800">
-
 </div>
 
 ---
@@ -24,17 +22,6 @@
 - 🖼️ **بهبود نمایش تصاویر** داخل توییتها
 - ⚡ **سبک و سریع** — فقط با CSS، بدون تغییر در DOM
 - 🌐 **پشتیبانی از هر دو دامنه** `twitter.com` و `x.com`
-
----
-
-## 📸 پیش و بعد
-
-| قبل 😵 | بعد 😍 |
-|:---:|:---:|
-| <img src="https://user-images.githubusercontent.com/placeholder/before.png" width="400"> | <img src="https://user-images.githubusercontent.com/placeholder/after.png" width="400"> |
-| سایدبارهای شلوغ و متن ریز | تمرکز کامل روی توییتها با متن بزرگتر |
-
-> 💡 برای اضافه کردن تصاویر واقعی، عکسهای `before.png` و `after.png` رو داخل پوشه `assets/` ریپو بذار و مسیر رو در README اصلاح کن.
 
 ---
 
@@ -67,3 +54,21 @@
 </p>
 
 یا به صورت دستی این آدرس رو در نوار آدرس مرورگر باز کن:
+https://raw.githubusercontent.com/YasserDivaR/X-Wider/refs/heads/main/x-wider.js
+
+### قدم ۳ — لذت ببر! 🎉
+
+صفحه X رو رفرش کن (F5) و تغییرات رو ببین.
+
+---
+
+## 🛠️ شخصیسازی
+
+میخوای متن توییتها بزرگتر یا کوچکتر باشه؟ مقدار `font-size` رو در کد تغییر بده:
+
+```css
+/* ===== بزرگتر کردن متن توییتها ===== */
+[data-testid="tweetText"] {
+    font-size: 17px !important;   /* 👈 این عدد رو تغییر بده */
+    line-height: 1.55 !important;
+}
