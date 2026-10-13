@@ -54,6 +54,7 @@
 </p>
 
 یا به صورت دستی این آدرس رو در نوار آدرس مرورگر باز کن:
+
 https://raw.githubusercontent.com/YasserDivaR/X-Wider/refs/heads/main/x-wider.js
 
 ### قدم ۳ — لذت ببر! 🎉
@@ -71,4 +72,7 @@ https://raw.githubusercontent.com/YasserDivaR/X-Wider/refs/heads/main/x-wider.js
 [data-testid="tweetText"] {
     font-size: 17px !important;   /* 👈 این عدد رو تغییر بده */
     line-height: 1.55 !important;
+}
+[data-testid="primaryColumn"] {
+    max-width: 900px !important;  /* 👈 این عدد رو تغییر بده */
 }
