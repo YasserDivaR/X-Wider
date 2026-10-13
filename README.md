@@ -77,3 +77,65 @@ https://raw.githubusercontent.com/YasserDivaR/X-Wider/refs/heads/main/x-wider.js
 [data-testid="primaryColumn"] {
     max-width: 900px !important;  /* 👈 این عدد رو تغییر بده */
 }
+
+
+🧩 سازگاری
+مرورگر	وضعیت
+🟢 Chrome / Chromium	✅ تست شده
+🟢 Firefox	✅ تست شده
+🟢 Edge	✅ تست شده
+🟢 Brave	✅ تست شده
+🟡 Safari	⚠️ نیاز به Tampermonkey نسخه Safari
+❓ سوالات متداول
+<details> <summary><b>تغییرات اعمال نشد، چیکار کنم؟</b></summary>
+۱. مطمئن شو افزونه Tampermonkey فعاله.
+۲. صفحه X رو با Ctrl + F5 (رفرش کامل) رفرش کن.
+۳. توی داشبورد Tampermonkey چک کن که اسکریپت X-Wider فعال (Enabled) باشه.
+۴. اگه بازم مشکل بود، توی Issues گزارش بده.
+
+</details><details> <summary><b>آیا روی موبایل هم کار میکنه؟</b></summary>
+بله، اگه از مرورگر موبایل با پشتیبانی افزونه (مثل Kiwi Browser یا Firefox Mobile) استفاده کنی.
+
+</details><details> <summary><b>متن توییتها هنوز ریزه، چرا؟</b></summary>
+مقدار font-size رو توی بخش شخصیسازی بالاتر ببر (مثلاً 19px یا 21px).
+
+</details><details> <summary><b>سایدبار چپ کامل حذف نمیشه؟</b></summary>
+X کلاسهای CSS رو مدام تغییر میده. اگه مشکل دیدی، توی Issues گزارش بده تا selector رو آپدیت کنم.
+
+</details>
+🐛 گزارش باگ و درخواست ویژگی
+اگه باگ پیدا کردی یا ایده جدیدی داری، از بخش Issues استفاده کن:
+
+🐞 گزارش باگ
+
+💡 درخواست ویژگی
+
+🤝 مشارکت
+از مشارکت استقبال میکنم! برای این کار:
+
+ریپو رو Fork کن
+
+یه برنچ جدید بساز (git checkout -b feature/amazing-feature)
+
+تغییرات رو Commit کن (git commit -m 'Add amazing feature')
+
+برنچ رو Push کن (git push origin feature/amazing-feature)
+
+یه Pull Request باز کن
+
+📜 لایسنس
+این پروژه تحت لایسنس MIT منتشر شده. برای جزئیات فایل LICENSE رو ببین.
+
+<div align="center">
+🌟 اگه از این پروژه خوشت اومد، یه ستاره بده!
+ساخته شده با ❤️ توسط YasserDivaR.ir
+
+https://img.shields.io/badge/Website-yasserdivar.ir-blue?style=flat-square&logo=googlechrome
+https://img.shields.io/badge/GitHub-YasserDivaR-black?style=flat-square&logo=github
+
+</div> ```
+
+
+
+
+
