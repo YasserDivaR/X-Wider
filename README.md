@@ -77,7 +77,7 @@ https://raw.githubusercontent.com/YasserDivaR/X-Wider/refs/heads/main/x-wider.js
 [data-testid="primaryColumn"] {
     max-width: 900px !important;  /* 👈 این عدد رو تغییر بده */
 }
-
+```
 
 🧩 سازگاری
 مرورگر	وضعیت
@@ -130,11 +130,9 @@ X کلاسهای CSS رو مدام تغییر میده. اگه مشکل دیدی
 🌟 اگه از این پروژه خوشت اومد، یه ستاره بده!
 ساخته شده با ❤️ توسط YasserDivaR.ir
 
-https://img.shields.io/badge/Website-yasserdivar.ir-blue?style=flat-square&logo=googlechrome
-https://img.shields.io/badge/GitHub-YasserDivaR-black?style=flat-square&logo=github
+
 
 </div> ```
-
 
 
 
