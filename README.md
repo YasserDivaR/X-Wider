@@ -79,8 +79,8 @@ https://raw.githubusercontent.com/YasserDivaR/X-Wider/refs/heads/main/x-wider.js
 }
 ```
 
-🧩 سازگاری
-مرورگر	وضعیت
+🧩 سازگاری مرورگر	وضعیت
+
 🟢 Chrome / Chromium	✅ تست شده
 
 🟢 Firefox	✅ تست شده
@@ -137,7 +137,7 @@ X کلاسهای CSS رو مدام تغییر میده. اگه مشکل دیدی
 
 
 
-</div> ```
+</div> 
 
 
 
