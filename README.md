@@ -82,10 +82,15 @@ https://raw.githubusercontent.com/YasserDivaR/X-Wider/refs/heads/main/x-wider.js
 🧩 سازگاری
 مرورگر	وضعیت
 🟢 Chrome / Chromium	✅ تست شده
+
 🟢 Firefox	✅ تست شده
+
 🟢 Edge	✅ تست شده
+
 🟢 Brave	✅ تست شده
+
 🟡 Safari	⚠️ نیاز به Tampermonkey نسخه Safari
+
 ❓ سوالات متداول
 <details> <summary><b>تغییرات اعمال نشد، چیکار کنم؟</b></summary>
 ۱. مطمئن شو افزونه Tampermonkey فعاله.
